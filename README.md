@@ -1,5 +1,4 @@
 # Shavers
-<h1> Projeto Shavers </h1>
 
 ![Account Type](https://user-images.githubusercontent.com/55507831/141378047-8bc458aa-50d7-4013-bb86-0e854c6576ad.png)
 ![Pro](https://user-images.githubusercontent.com/55507831/141378051-b5f645ab-e865-4878-a5c8-72929ca2f275.png)
